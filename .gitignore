@@ -1,0 +1,4 @@
+/build/
+*.log
+*_events.csv
+CMakeUserPresets.json
